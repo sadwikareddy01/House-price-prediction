@@ -1,1 +1,1 @@
-"# Farm Management System" 
+This House Price Prediction project utilizes regression models to estimate real estate prices based on various property attributes. By leveraging machine learning techniques, the model predicts house prices based on historical data, enabling data-driven decision-making for buyers, sellers, and investors.
